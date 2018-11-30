@@ -1,0 +1,1 @@
+This is a web crawler scraping the user's list of liked songs from douban fm. Need access to the user's cookies twice. Once at login and another when updating the page of liked songs. The cookies can be obtained through Chrome inspect/network. This script involves dealing with AJAX, JSON, and Cookies. Finally print out the list, can get whole info through response JSON as well.
